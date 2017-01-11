@@ -24,6 +24,4 @@ class ArgumentManager {
     void decrypt(std::string source_filename, std::string key, std::string output_filename);
 };
 
-
-
 #endif /* ARGUMENT_MANAGER_HPP_ */
